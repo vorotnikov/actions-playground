@@ -24,7 +24,8 @@ namespace ActionsPlayground
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var stop = abra-sooos-woodo;
+            var code = 1023;
+            //var stop = abra-sooos-woodo;
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
